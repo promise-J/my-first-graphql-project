@@ -1,0 +1,33 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "pronto",
+      "age": "334"
+    },
+    {
+      "id": "3",
+      "name": "bobby",
+      "email": "bobby@gmail.com",
+      "age": "16"
+    },
+    {
+      "id": "4",
+      "name": "peace",
+      "email": "peace@gmail.com",
+      "age": "15"
+    },
+    {
+      "name": "Cultist",
+      "email": "cultist@gmail.com",
+      "age": "4",
+      "id": "eRG-d2-"
+    },
+    {
+      "name": "bonso",
+      "email": "bonso@gmail.com",
+      "age": "44",
+      "id": "JsdkUmf"
+    }
+  ]
+}
